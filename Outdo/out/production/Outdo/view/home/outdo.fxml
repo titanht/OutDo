@@ -7,7 +7,7 @@
 <?import javafx.scene.control.MenuItem?>
 <?import javafx.scene.control.SeparatorMenuItem?>
 <?import javafx.scene.control.ScrollPane?>
-<VBox fx:controller="outdo.outdoController" xmlns:fx="http://javafx.com/fxml"
+<VBox fx:controller="controller.home.outdoController" xmlns:fx="http://javafx.com/fxml"
       prefWidth="480.0" prefHeight="640.0" scaleX="1" scaleY="1" scaleZ="1" accessibleRole="PARENT">
     <children>
     <MenuBar>

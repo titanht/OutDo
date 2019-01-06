@@ -1,4 +1,4 @@
-package outdo;
+package controller.home;
 
 import javafx.event.ActionEvent;
 import javafx.fxml.FXML;
